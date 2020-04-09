@@ -1,0 +1,43 @@
+{
+  "localId": "Storopia-theme",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "e3cea5420fde21c8895a082c28b70d215ce4bad2",
+  "platform": 6,
+  "size": 597560,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUITR"
+  },
+  "designers": {
+    "fallback": "MIUITR"
+  },
+  "titles": {
+    "fallback": "Storopia"
+  },
+  "descriptions": {
+    "fallback": "MIUITR TR for Storopia"
+  },
+  "builtInThumbnails": {},
+  "builtInPreviews": {},
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "Storopia-font",
+      "metaPath": "/system/media/theme/.data/meta/fonts/Storopia-font.mrm",
+      "contentPath": "/system/media/theme/.data/fonts/Storopia-font.mrc",
+      "resourceCode": "fonts",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}
